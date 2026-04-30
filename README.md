@@ -126,7 +126,7 @@ The pipeline generates:
 
 ## Contributions
 
-- Kotikala Yahswanth — Data Preprocessing
+- Kotikala Yashwant — Data Preprocessing
 - Priyanshu Paliwal — Model Implementation and Working Example
 - Oindrila Mandal — Baseline Model and Evaluation Metrics Implementation
 - Riddhi Maiti — Training and Evaluation of Models and Hyperparameter Tuning
