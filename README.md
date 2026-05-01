@@ -54,7 +54,7 @@ trec_qa_raw = load_dataset('lucadiliello/trecqa')
 
 ## Main Pipelines
 
-The primary workflow for reproduction is in `Group7.ipynb` ([view here](https://github.com/p-priyanshu04/Deep-Learning-Project/blob/main/rnn_poa_reproduction.ipynb)).  
+The primary workflow for reproduction is in `Group7.ipynb`  
 ---
 
 ## Model Architecture
