@@ -25,7 +25,6 @@ Standard attention mechanisms in RNN-based QA models rely purely on hidden repre
 ├── Enhancing Recurrent Neural Networks with Positional Attention for Question Answering.pdf   # Original paper
 ├── images/
 │     ├── training_curves.png
-│     ├── position_influence_example_N.png
 │     ├── attention_heatmap_example_N.png
 │     ├── dataset_comparison.png
 │     ├── paper_vs_ours.png
@@ -112,8 +111,6 @@ The pipeline generates:
 ![Sigma Tuning](images/sigma_tuning.png)
 - `attention_heatmap_example_N.png` — Illustrates difference between classical and positional attention
 ![Attention Heatmap](images/attention_heatmap_example_N.png)
-- `position_influence_example_N.png` — Visualization of Gaussian kernel position influence
-![Position Influence](images/position_influence_example_N.png)
 
 ---
 
